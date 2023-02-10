@@ -1,1 +1,9 @@
 /* your code */
+.thead{
+	color:white;
+	background-color:red;
+}
+.tr{
+	color:black;
+	background-color:pink;
+}
