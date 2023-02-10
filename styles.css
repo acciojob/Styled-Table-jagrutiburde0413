@@ -1,9 +1,24 @@
 /* your code */
+table{
+	width:100%;
+	border:solid black;
+	border-collapse:collapse;
+}
 .thead{
+	border:solid black;
 	color:white;
 	background-color:red;
+	
 }
 .tr{
+	border:solid black;
 	color:black;
 	background-color:pink;
+	height:40px;
+}
+td{
+	border:solid black;
+}
+th{
+	border:solid black;
 }
